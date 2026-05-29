@@ -1,0 +1,1 @@
+﻿// Footer component script placeholder.

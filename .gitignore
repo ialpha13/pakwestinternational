@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.swo
+.vscode/
+.idea/
+node_modules/
+vendor/
+.env
+.env.local
+.env.*.local
+.phpunit.result.cache

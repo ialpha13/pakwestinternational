@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -i \"schema\\\\|json-ld\\\\|structured\" /c/wamp64/www/pakwestinternational/includes/*.php)"
+    ]
+  }
+}
